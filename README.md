@@ -15,8 +15,8 @@ The following functionality is implemented:
 
 ### Test userData
 ```sh
-login: test1@mai.ru
-password: 12345678Qq
+login: test@gmail.com
+password: 12345678
 ```
 ### Backend launch
 
