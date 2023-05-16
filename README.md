@@ -1,4 +1,4 @@
-# Flower-shop
+# Home Decor
 Online store for the sale of indoor flowers and plants
 
 Stack: Angular, SCSS, Typescript, Material UI, MongoDB
